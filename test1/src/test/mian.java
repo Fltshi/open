@@ -5,5 +5,6 @@ public class mian {
         System.out.println("hello wlord");
         System.out.println("hello wlord2");
         System.out.println("新建2");
+        System.out.println("master");
     }
 }
