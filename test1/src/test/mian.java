@@ -6,6 +6,7 @@ public class mian {
         System.out.println("hello wlord2");
         System.out.println("新建2");
         System.out.println("分支1");
+        System.out.println("测试2");
         System.out.println("master");
     }
 }
